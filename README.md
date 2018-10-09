@@ -1,0 +1,2 @@
+# MyCop
+MyCop
